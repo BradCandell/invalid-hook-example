@@ -2,11 +2,12 @@ The following repository was created to demonstrate an issue where jest throws a
 
 The custom hook is intended to further simplify the `react-modal` interface.
 
-#Steps to reproduce
+# Steps to reproduce
 
 ## No Error
 
 `npm start`
 
-Error
+## Error
+
 `npm run test`
